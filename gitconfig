@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carl.bylin@ingka.ikea.com
+	name = Kalle Bylin
